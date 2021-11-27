@@ -144,6 +144,48 @@
         "hungry"
       ],
       "id": "14"
+    },
+    {
+      "name": "Test",
+      "species": "Test",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious"
+      ],
+      "id": "17"
+    },
+    {
+      "name": "Test",
+      "species": "Test",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious"
+      ],
+      "id": "17"
+    },
+    {
+      "name": "Test",
+      "species": "Test",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany",
+        "anxious",
+        "loving"
+      ],
+      "id": "19"
+    },
+    {
+      "name": "Test",
+      "species": "Test",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany",
+        "anxious",
+        "loving"
+      ],
+      "id": "19"
     }
   ]
 }
